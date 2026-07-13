@@ -8,9 +8,9 @@ Outside of my day job I build full projects so I can go deeper on applied ML, fu
 NFL and CFB matchup predictor. Uses an XGBoost model (calibrated with Platt scaling, explained with SHAP) that's walk-forward backtested against Vegas closing lines. There's also an LLM narration layer that explains the model's output in plain language, but it never gets to change the numbers. FastAPI backend, Next.js frontend, CI and a full test suite.
 https://github.com/carterptull/blitzcast
 
-### personal-website-portfolio
+### personal-portfolio-website
 My portfolio site. It's built as an interactive Windows 95/98 desktop with draggable windows, a boot sequence, and an idle triggered 3D screensaver, but underneath all that it's still a server rendered site so it stays fast and crawlable.
-https://github.com/carterptull/personal-website-portfolio
+https://github.com/carterptull/personal-portfolio-website
 
 ### claude-code-workbench
 My personal Claude Code setup. Skills, subagents, and hooks built around one idea: stay out of the way for anything reversible, and put a human in the loop for the couple of actions that aren't. Includes real transcripts showing each guardrail actually running.
